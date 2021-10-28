@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://cdn.hovia.com/app/uploads/Pastel-Geometric-Triangle-Pattern-Wallpaper-Mural-Plain.jpg");
+}
+
+hr.rounded{
+    border-top: 8px solid blue;
+    border-radius: 10px;
+}
+
+#Title{
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: dotted 8px  white;
+    text-align: center;
+    color: rgb(0, 119, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+#Instructions{
+    float: left;
+    margin-left: auto;
+    border: solid 10px black;
+    border-radius: 10px;
+}
+
+#theGame{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
